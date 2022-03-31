@@ -5,7 +5,7 @@ In this project, I demonstrate an application that can monitor the bandwidth uti
 
 ![Screenshot](https://github.com/alimo7amed93/SNMP-BasesBandwithMonitoring/blob/main/Pictures/pic1.png)
 
-# Steps: 
+# Steps & Testing: 
 
 ### Install Pysnmp
 pip install --upgrade pysnmp
@@ -13,10 +13,8 @@ pip install --upgrade pysnmp
 ### Link to MIB & OID details for Cisco
 [MIB & OID Details](https://content.cisco.com/chapter.sjs?uri=/searchable/chapter/content/en/us/td/docs/security/ise/2-6/admin_guide/b_ise_admin_guide_26/b_ise_admin_guide_26_chapter_0100001.html.xml)
 
-# Testing:
-
-- Install GN3 Software
-- Install PacketSender
+### Install GN3 Software
+### Install PacketSender
 
 ### Install Microsoft KM-TEST Loopback
 - Run hdwwiz.exe in admin mode 
