@@ -13,8 +13,8 @@ pip install --upgrade pysnmp
 ### Link to MIB & OID details for Cisco
 [MIB & OID Details](https://content.cisco.com/chapter.sjs?uri=/searchable/chapter/content/en/us/td/docs/security/ise/2-6/admin_guide/b_ise_admin_guide_26/b_ise_admin_guide_26_chapter_0100001.html.xml)
 
-### Install GN3 Software
-### Install PacketSender
+- Install GN3 Software
+- Install PacketSender
 
 ### Install Microsoft KM-TEST Loopback
 - Run hdwwiz.exe in admin mode 
@@ -31,7 +31,7 @@ pip install --upgrade pysnmp
 ![Screenshot](https://github.com/alimo7amed93/SNMP-BasesBandwithMonitoring/blob/main/Pictures/pic4.png)
 
 - Connect the topology and use the loopback adapter
-- 
+
 ![Screenshot](https://github.com/alimo7amed93/SNMP-BasesBandwithMonitoring/blob/main/Pictures/pic5.png)
 
 ![Screenshot](https://github.com/alimo7amed93/SNMP-BasesBandwithMonitoring/blob/main/Pictures/pic6.png)
